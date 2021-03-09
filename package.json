@@ -2,10 +2,10 @@
     "name": "ptrade-swap-core",
     "description": "🎛 Core contracts for the ptrade protocol",
     "version": "0.1.0",
-    "homepage": "https://ptrade.finance",
+    "homepage": "https://polkadot.trade",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dotptrade/ptrade-swap-core.git"
+        "url": "git+https://github.com/polkadot-trade/ptrade-swap-core.git"
     },
     "publishConfig": {
         "registry": "http://registry.npmjs.org"
